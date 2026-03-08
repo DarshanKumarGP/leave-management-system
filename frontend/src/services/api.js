@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://leave-management-api-4p7b.onrender.com/api";
 
 export async function signup(data) {
   const res = await fetch(`${API_BASE}/auth/signup`, {
