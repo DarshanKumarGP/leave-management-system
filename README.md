@@ -84,7 +84,7 @@ leave-management-system
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/leave-management-system.git
+git git clone https://github.com/DarshanKumarGP/leave-management-system.git
 cd leave-management-system
 
 Backend Setup
